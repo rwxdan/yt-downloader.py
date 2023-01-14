@@ -32,7 +32,7 @@ git clone https://github.com/rwxdan/yt-pydownloader/ && cd yt-pydownloader
 
 2. Install the needed dependencies with [pip](https://pypi.org/project/pip/)
 
-   ❗ I'll suggest to create a `venv`, [learn more](https://docs.python.org/3/tutorial/venv.html). Or else, just follow along.
+   ❗ I'll suggest to create a `venv` and install the requirements there, [learn more](https://docs.python.org/3/tutorial/venv.html). Or else, just follow along.
 
 ```
 pip install pytube customtkinter
