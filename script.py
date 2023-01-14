@@ -11,7 +11,7 @@ app.title("YouTube PyDownloader")
 label = customtkinter.CTkLabel( app, 
                                 text="Insert a valid YouTube link",
                                 font=("sans-serif", 18))
-label.pack(padx=10, pady=10)
+label.pack(padx=20, pady=40)
 url_var = tkinter.StringVar()
 link = customtkinter.CTkEntry(app, width=350, height=40,
                               textvariable=url_var)
