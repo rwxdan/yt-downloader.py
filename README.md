@@ -4,7 +4,9 @@
 <h1 align="center">YT PyDownloader</h1> 
 <h2 align="center">A YouTube downloader written in Python 🐍</h2>
 
-![](./screenshot.png)
+<div align="center">
+    <img src="./screenshot.png" />
+</div>
 
 ### Disclaimer ⚠
 
